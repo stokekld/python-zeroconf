@@ -78,7 +78,7 @@ _CHECK_TIME = 175  # ms
 _REGISTER_TIME = 225  # ms
 _LISTENER_TIME = 200  # ms
 _BROWSER_TIME = 1000  # ms
-_BROWSER_BACKOFF_LIMIT = 3600  # s
+_BROWSER_BACKOFF_LIMIT = 2  # s
 
 # Some DNS constants
 
